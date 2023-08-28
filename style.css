@@ -1,0 +1,44 @@
+.container{
+    background-color: #DBE2EF;
+    border: 2px solid #112D4E;
+    display: flex;
+    flex-direction: column;
+    width: 410px;
+}
+.scherm {
+    background-color: #F9F7F7;
+    border: 2px solid #112D4E;
+    margin: 30px 30px 10px 30px; 
+    padding: 20px;
+    width: 310px;
+    text-align: right;
+}
+
+.toetsen{
+    background-color: #DBE2EF;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.rij{
+    background-color: #DBE2EF;
+    display: flex;
+}
+
+.knop{
+    background-color: #DBE2EF;
+    border: 2px solid #112D4E;
+    padding: 20px;
+    margin: 10px;
+    width: 30px;
+}
+
+
+
+/*
+#F9F7F7
+#DBE2EF
+#3F72AF
+#112D4E
+*/
