@@ -1,17 +1,20 @@
+
+
 .container{
     background-color: #DBE2EF;
     border: 2px solid #112D4E;
     display: flex;
     flex-direction: column;
-    width: 410px;
+    width: 495px;
 }
 .scherm {
     background-color: #F9F7F7;
     border: 2px solid #112D4E;
     margin: 30px 30px 10px 30px; 
     padding: 20px;
-    width: 310px;
+    width: 395px;
     text-align: right;
+    color: #3F72AF;
 }
 
 .toetsen{
@@ -32,6 +35,7 @@
     padding: 20px;
     margin: 10px;
     width: 30px;
+    color: #112D4E
 }
 
 
